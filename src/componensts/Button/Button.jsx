@@ -2,7 +2,7 @@ import style from "./Button.module.css";
 export default function Button() {
   return (
     <>
-      <button className="btn">leggi di più</button>
+      <button className={style.btn}>leggi di più</button>
     </>
   );
 }
