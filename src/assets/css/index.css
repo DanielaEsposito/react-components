@@ -36,6 +36,10 @@ footer {
   color: white;
   text-align: center;
   font-size: 0.8rem;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
 }
 .footer-lorem {
   padding: 30px;
