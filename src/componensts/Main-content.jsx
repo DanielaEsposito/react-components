@@ -8,7 +8,11 @@ export default function Main() {
             <div className="card-container col-12">
               <div className="card">
                 <div className="card-img-container">
-                  <img src="..." className="card-img-top" alt="" />
+                  <img
+                    src="src/assets/img/img-prova.jpg"
+                    className="card-img-top img-fluid"
+                    alt=""
+                  />
                 </div>
                 <div className="card-body">
                   <h5 className="card-title fw-semibold">TITOLO DEL POST</h5>
